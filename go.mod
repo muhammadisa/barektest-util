@@ -10,7 +10,7 @@ require (
 	github.com/hashicorp/vault/api v1.1.1
 	go.mongodb.org/mongo-driver v1.7.3
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
-	google.golang.org/grpc v1.40.0
+	google.golang.org/grpc v1.41.0
 )
 
 require (
