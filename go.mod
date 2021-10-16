@@ -3,6 +3,7 @@ module github.com/muhammadisa/barektest-util
 go 1.17
 
 require (
+	github.com/DATA-DOG/go-sqlmock v1.5.0
 	github.com/afex/hystrix-go v0.0.0-20180502004556-fa1af6a1f4f5
 	github.com/go-kit/kit v0.12.0
 	github.com/go-redis/redis/v8 v8.11.4
@@ -14,7 +15,6 @@ require (
 )
 
 require (
-	github.com/DATA-DOG/go-sqlmock v1.5.0 // indirect
 	github.com/cenkalti/backoff/v3 v3.0.0 // indirect
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
